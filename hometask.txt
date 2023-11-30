@@ -1,1 +1,14 @@
 Ветка demo влита в ветку master, поэтому отличий нет.
+
+Комментарии в коммитах на GitHub:
+
+Added hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+Merge branch 'boots' into release
+heat added
+init
